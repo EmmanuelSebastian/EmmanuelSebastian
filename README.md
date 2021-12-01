@@ -45,10 +45,11 @@ def dis_fn(df, channeltype):
     print(df.groupby(channeltype)[channeltype].count())
     df[channeltype].value_counts().plot(kind='bar')
 dis_fn(first_thousand, 'channeltype')
-#6. Load only the top 1000 records of the original 4000 into a separate CSV file.
+
+# 6. Load only the top 1000 records of the original 4000 into a separate CSV file.
 first_thousand.to_csv('Youtubedata-1000.csv')
 
-#7. Print saved first 1000 record in a seperate csv file.
+# 7. Print saved first 1000 record in a seperate csv file.
 df1 = pd.read_csv('./youtubedata-1000.csv')
 df1
 
