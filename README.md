@@ -93,7 +93,6 @@ No License (Open)
 
 * Code Used from Durham college- 1202-Functionintro.py
 * Inspiration: Prof Omar Al-Trad
- there 👋
 
 <!--
 **EmmanuelSebastian/EmmanuelSebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
