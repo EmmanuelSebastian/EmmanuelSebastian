@@ -1,8 +1,4 @@
-### Hi ff there 👋
-
-<!--
-**EmmanuelSebastian/EmmanuelSebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Data Loading
+### Data Loading
 
 This python code creates a method that calculates the channel type distribution from a YouTube dataset. We need to determine the channel type distribution from the top 1000 entries in the original dataset. To do so, we first establish a separate data frame for the top 1000 entries, then write a function to determine the channel type distribution from that data frame.
 
@@ -92,6 +88,10 @@ No License (Open)
 
 * Code Used from Durham college- 1202-Functionintro.py
 * Inspiration: Prof Omar Al-Trad
+ there 👋
+
+<!--
+**EmmanuelSebastian/EmmanuelSebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
